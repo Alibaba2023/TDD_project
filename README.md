@@ -75,7 +75,7 @@ git clone https://github.com/Alibaba2023/TDD_project
 ### Usage
 Initialize it with
 ```
-ruby main.rb
+ruby solver.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,7 +83,7 @@ ruby main.rb
 ### Test
 To run the tests try the following command:
 ```
-rspec spec
+rspec The file name that you want to test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
